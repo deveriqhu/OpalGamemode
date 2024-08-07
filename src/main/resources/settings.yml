@@ -1,0 +1,7 @@
+Gamemode:
+  Plugin_Prefix: "&7[&aSimpleGamemode&7]"
+  Gamemode_Survival: "&7Your gamemode set to &2Survival"
+  Gamemode_Creative: "&7Your gamemode set to &bCreative"
+  Gamemode_Adventure: "&7Your gamemode set to &6Adventure"
+  Gamemode_Spectator: "&7Your gamemode set to &9Spectator"
+

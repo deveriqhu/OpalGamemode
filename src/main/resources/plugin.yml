@@ -1,0 +1,4 @@
+name: OpalGamemode
+main: hu.deveriqhu.opalgamemode.OpalGamemodePlugin
+version: 1.0.0
+author: deveriqhu
